@@ -9,4 +9,4 @@ cd tarea-GPI2/Mifare\ Classic\ Tool/
 
 # Ejecutar el analisis de codigo estático con PMD
 # Lo he añadido al PATH y el resultado está en .gitignore
-pmd check ../Mifare\ Classic\ Tool/ --rulesets=rulesets/java/quickstart.xml -r ./results.txt
+/home/alumno/Descargas/pmd-bin-7.0.0-rc2/bin/pmd check -d ../Mifare\ Classic\ Tool/ --rulesets=rulesets/java/quickstart.xml -r ./results.txt
