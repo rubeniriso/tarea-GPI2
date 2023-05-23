@@ -1,0 +1,251 @@
+./Mifare Classic Tool/app/build/generated/source/buildConfig/debug/de/syss/MifareClassicTool/BuildConfig.java:4:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/AccessConditionDecoder.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/AccessConditionTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/AccessConditionTool.java:338:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/AccessConditionTool.java:361:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/BasicActivity.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/BccTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/CloneUidTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/CloneUidTool.java:274:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/CloneUidTool.java:380:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/CloneUidTool.java:493:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DataConversionTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DataConversionTool.java:87:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DataConversionTool.java:93:	UseLocaleWithCaseConversions:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DataConversionTool.java:111:	UnusedPrivateMethod:	Avoid unused private methods such as 'isBin(String, Context)'.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DataConversionTool.java:129:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DataConversionTool.java:157:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DiffTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DiffTool.java:103:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:430:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:456:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:493:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:521:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:557:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:599:	UncommentedEmptyMethodBody:	Document empty method body
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:602:	UncommentedEmptyMethodBody:	Document empty method body
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:657:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:684:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:724:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:742:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:768:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:957:	LooseCoupling:	Avoid using implementation types like 'HashSet'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:961:	UseLocaleWithCaseConversions:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/DumpEditor.java:962:	UseLocaleWithCaseConversions:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/FileChooser.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/FileChooser.java:360:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/HelpAndInfo.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/HelpAndInfo.java:24:	UnnecessaryImport:	Unused import 'de.syss.MifareClassicTool.R'
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/HexToAscii.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/IActivityThatReactsToSave.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/IActivityThatReactsToSave.java:21:	UnnecessaryImport:	Unused import 'de.syss.MifareClassicTool.Common'
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:232:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:251:	ImplicitSwitchFallThrough:	This switch case may be reached by fallthrough from the previous case
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:261:	ImplicitSwitchFallThrough:	This switch case may be reached by fallthrough from the previous case
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:267:	ImplicitSwitchFallThrough:	This switch case may be reached by fallthrough from the previous case
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:536:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:539:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:547:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:555:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:581:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:600:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:603:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:607:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:627:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:641:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:646:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:651:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:678:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:689:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:696:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:710:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:720:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:745:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:749:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:754:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:765:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:783:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:787:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:800:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:868:	LocalVariableNamingConventions:	The final local variable name 'BUFFER' doesn't match '[a-z][a-zA-Z0-9]*'
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:875:	CloseResource:	Ensure that resources like this OutputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:877:	CloseResource:	Ensure that resources like this ZipOutputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:886:	CloseResource:	Ensure that resources like this FileInputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ImportExportTool.java:887:	CloseResource:	Ensure that resources like this BufferedInputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:122:	UncommentedEmptyMethodBody:	Document empty method body
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:125:	UncommentedEmptyMethodBody:	Document empty method body
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:280:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:345:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:365:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:368:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyEditor.java:438:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:176:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:179:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:257:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:350:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:357:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:359:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:375:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:430:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:457:	UnusedPrivateMethod:	Avoid unused private methods such as 'createKeyMap(MCReader, Context)'.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:468:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:596:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/KeyMapCreator.java:601:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java:34:	UnnecessaryImport:	Unused import 'android.provider.Settings'
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java:902:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java:940:	CloseResource:	Ensure that resources like this InputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java:942:	CloseResource:	Ensure that resources like this FileOutputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java:954:	CloseResource:	Ensure that resources like this InputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/MainMenu.java:956:	CloseResource:	Ensure that resources like this FileOutputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/Preferences.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ReadTag.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ReadTag.java:84:	UnnecessaryReturn:	Unnecessary return statement
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ReadTag.java:123:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/TagInfoTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/UidLogTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/UidLogTool.java:107:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ValueBlockTool.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ValueBlockTool.java:93:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/ValueBlocksToInt.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:91:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:94:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:94:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:147:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:213:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:344:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:345:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:619:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:757:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:793:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:943:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:953:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:953:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:969:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:971:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:971:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:976:	LooseCoupling:	Avoid using implementation types like 'HashSet'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1016:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1038:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1053:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1128:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1141:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1192:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1194:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1213:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1213:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1216:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1344:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1351:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1358:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1361:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/WriteTag.java:1463:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Activities/package-info.java:4:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:21:	UnnecessaryImport:	Unused static import 'de.syss.MifareClassicTool.Activities.Preferences.Preference.AutoCopyUID'
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:22:	UnnecessaryImport:	Unused static import 'de.syss.MifareClassicTool.Activities.Preferences.Preference.UIDFormat'
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:276:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:309:	CloseResource:	Ensure that resources like this InputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:312:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:317:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:320:	CloseResource:	Ensure that resources like this BufferedReader object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:326:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:339:	CloseResource:	Ensure that resources like this InputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:341:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:346:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:358:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:377:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:384:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:399:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:406:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:423:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:476:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'Common': 'saveFile' is already in scope
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:489:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'Common': 'saveFileAppend' is already in scope
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:505:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'Common': 'saveFile' is already in scope
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:608:	CloseResource:	Ensure that resources like this OutputStream object are closed after use
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:792:	NonThreadSafeSingleton:	Singleton is not thread safe
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:806:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:807:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:994:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'Common': 'isAppInstalled' is already in scope
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1026:	AssignmentInOperand:	Avoid assignments in operands
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1145:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1148:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1153:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1162:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1168:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1221:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1249:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1265:	ControlStatementBraces:	This statement should have braces
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1265:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1269:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1355:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'Common': 'hex2Bytes' is already in scope
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1362:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1363:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1364:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1365:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1366:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1391:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1477:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1509:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1545:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1582:	UseLocaleWithCaseConversions:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1599:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1603:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1614:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1625:	EmptyControlStatement:	Empty if statement
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1637:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1640:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1645:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1648:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1713:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1771:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1816:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/Common.java:1885:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCDiffUtils.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCDiffUtils.java:29:	UseUtilityClass:	This utility class has a non-private constructor
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCDiffUtils.java:65:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCDiffUtils.java:73:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:19:	PackageCase:	Package name contains upper case characters
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:48:	ClassWithOnlyPrivateConstructorsShouldBeFinal:	This class has only private constructors and may be final
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:69:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:297:	EmptyControlStatement:	Empty while statement
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:297:	ControlStatementBraces:	This statement should have braces
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:324:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:357:	PreserveStackTrace:	Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:370:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:496:	UnusedLocalVariable:	Avoid unused local variables such as 'response'.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:603:	ForLoopCanBeForeach:	This for loop can be replaced by a foreach loop
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:636:	EmptyCatchBlock:	Avoid empty catch blocks
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:642:	EmptyCatchBlock:	Avoid empty catch blocks
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:661:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:681:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:689:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:731:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:733:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:737:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:741:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:744:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:751:	OptimizableToArrayCall:	This call to Collection.toArray() may be optimizable
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:755:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:759:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:765:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:808:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:808:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:809:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:811:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:811:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:821:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:825:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:828:	ReturnEmptyCollectionRatherThanNull:	Return an empty collection rather than null.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:860:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:915:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:938:	LooseCoupling:	Avoid using implementation types like 'HashSet'; use the interface instead
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:943:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:957:	UseCollectionIsEmpty:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/MCReader.java:1058:	UselessParentheses:	Useless parentheses.
+./Mifare Classic Tool/app/src/main/java/de/syss/MifareClassicTool/package-info.java:4:	PackageCase:	Package name contains upper case characters
