@@ -5,7 +5,9 @@ git clone https://github.com/rubeniriso/tarea-GPI2.git
 cd tarea-GPI2/Mifare\ Classic\ Tool/
 
 # Compilar
-./gradlew
+export ANDROID_HOME=/home/alumno/android/
+export ANDROID_SDK_ROOT=/home/alumno/android/
+./gradlew :app:build
 
 # Ejecutar el analisis de codigo estático con PMD
 # Lo he añadido al PATH y el resultado está en .gitignore
