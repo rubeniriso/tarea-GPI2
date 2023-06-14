@@ -12,7 +12,8 @@ export ANDROID_SDK_ROOT=/home/alumno/Android/
 
 
 # Ejecutar el analisis de codigo estático con PMD
-/home/alumno/Descargas/pmd-bin-7.0.0-rc2/bin/pmd check -d ../Mifare\ Classic\ Tool/ --rulesets=../ruleset.xml -r ../Entregables/results.txt
+/home/alumno/Descargas/pmd-bin-7.0.0-rc2/bin/pmd check -d ../Mifare\ Classic\ Tool/ --rulesets=rulesets/java/quickstart.xml -r ../Entregables/results.txt
+
 
 
 # Mover los ejecutables a la carpeta Ejecutables
