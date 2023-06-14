@@ -28,4 +28,4 @@ Mifare Classic Tool/app/release
 .idea
 .vscode
 build
-*.jar
+
